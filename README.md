@@ -2,4 +2,4 @@
 Autonomous race car control software
 
 linux勉強会のためにcoyote_racerをforkしたもの
-アップデート情報箱のページで対応していく
+アップデート情報はのページで対応していく
